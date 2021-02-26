@@ -1,6 +1,6 @@
 # 2013-2014 BAHAR DÖNEMİ İNTERNET PROGRAMCILIĞI-II DÖNEM PROJESİ Haber Sitesi
 
-#Projenin Adı: Haber Sitesi
+# Projenin Adı: Haber Sitesi
 
 
 
